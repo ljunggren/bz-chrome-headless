@@ -1,0 +1,19 @@
+{
+  "name": "BZChromeHeadless",
+  "version": "0.0.4",
+  "description": "Boozang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Headless",
+    "Boozang"
+  ],
+  "author": "Wensheng Li and Mats Ljunggren - special mention ",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-remote-interface": "latest",
+    "minimist": "latest"
+  }
+}
